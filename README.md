@@ -1,3 +1,7 @@
+# **Calculator**
+This is my first personal React project that is done without following a tutorial or in other words done all on my
+ own.  It will be a simple calculator that allows for the basic calculator functionality.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
