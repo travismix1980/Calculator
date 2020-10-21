@@ -2,7 +2,7 @@
 This is my first personal React project that is done without following a tutorial or in other words done all on my
  own.  It will be a simple calculator that allows for the basic calculator functionality.
  
- ####Here is what it looks like all completed
+ #### Here is what it looks like all completed
  
  ![](./src/images/CalcImage.png)
 
