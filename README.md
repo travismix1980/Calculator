@@ -1,6 +1,7 @@
 # **Calculator**
 This is my first personal React project that is done without following a tutorial or in other words done all on my
- own.  It will be a simple calculator that allows for the basic calculator functionality.
+ own.  It is a simple calculator that allows for the basic calculator functionality.  It does work on mobile but it
+  isnt mobile friendly; Who needs another calculator on their phone anyway :)
  
  #### Here is what it looks like all completed
  
